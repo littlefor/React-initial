@@ -4,11 +4,11 @@ Below you will find some information on how to perform common tasks.<br>
 You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
 
 ## Dependency
-*`react-router-dom`
-*`redux` CreateStore
-*`react-redux` Provider combineReducers
-*`redux-persist` save store to localstorage
-*`redux-thunk` async request
+-`react-router-dom`
+-`redux` CreateStore
+-`react-redux` Provider combineReducers
+-`redux-persist` save store to localstorage
+-`redux-thunk` async request
 
 *`node-sass-chokidar` for compile sass to css
 *`npm run all` build mutiple task
